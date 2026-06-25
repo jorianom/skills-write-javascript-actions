@@ -1,4 +1,4 @@
-name: "Joke Action
+name: "Joke Action"
 description: "Fetches a random joke and exposes it as an output"
 
 outputs:
